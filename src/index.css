@@ -1,0 +1,9 @@
+@import "tailwindcss";
+/* @plugin "daisyui" */
+/* @plugin "daisyui" {
+   themes: ["forest","light","dark"];
+ } */
+
+ @plugin "daisyui" {
+  themes: forest ;
+}
